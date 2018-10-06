@@ -66,14 +66,14 @@ pannellum.viewer('panorama', {
 
         "OxwichBay": {
             "title": "OxwichBay National Nature Reserve",
-            "hfov": 200,
+            "hfov": 90,
             "yaw": 35,
             "type": "equirectangular",
             "panorama": "/img/OxwichBay.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 137.1,
+                    "yaw": 100,
                     "type": "scene",
                     "text": "Return to Craig Cerrig Gleisiad",
                     "sceneId": "CraigCerrigGleisiad",
