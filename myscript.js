@@ -15,7 +15,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 5,
             "type": "equirectangular",
-            "panorama": "/img/CraigCerrigGleisiad.jpg",
+            "panorama": "./img/CraigCerrigGleisiad.jpg",
             "hotSpots": [
                 {
                     "pitch": 12.1,
@@ -32,7 +32,7 @@ pannellum.viewer('panorama', {
             "hfov": 100,
             "yaw": -5,
             "type": "equirectangular",
-            "panorama": "/img/CraigCerrigGleisiad_upper.jpg",
+            "panorama": "./img/CraigCerrigGleisiad_upper.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
@@ -69,7 +69,7 @@ pannellum.viewer('panorama', {
             "hfov": 90,
             "yaw": 35,
             "type": "equirectangular",
-            "panorama": "/img/OxwichBay.jpg",
+            "panorama": "./img/OxwichBay.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
