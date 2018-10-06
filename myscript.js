@@ -52,7 +52,7 @@ pannellum.viewer('panorama', {
             "pitch": -75,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "/img/OgofFfynnonDdu.jpg",
+            "panorama": "./img/OgofFfynnonDdu.jpg",
             "hotSpots": [
                 {
                     "pitch": -35.1,
