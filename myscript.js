@@ -50,16 +50,17 @@ pannellum.viewer('panorama', {
             "title": "Ogof Ffynnon Ddu",
             "hfov": 100,
             "pitch": -6,
-            "yaw": 117,
+            "yaw": 120,
             "type": "equirectangular",
             "panorama": "./img/OgofFfynnonDdu.jpg",
             "hotSpots": [
                 {
-                    "pitch": -35.1,
-                    "yaw": 15,
+                    
+                    "pitch": -38,
+                    "yaw": 17,
                     "type": "scene",
-                    "text": "Whitford National Nature Reserve",
-                    "sceneId": "whitfordNNR"
+                    "text": "OxwichBay National Nature Reserve",
+                    "sceneId": "OxwichBay",
                 }
             ]
         },
@@ -75,11 +76,14 @@ pannellum.viewer('panorama', {
             "panorama": "./img/whitfordNNR.jpg", 
             "hotSpots": [
                 {
-                    "pitch": -10,
-                    "yaw": -40,
+                    "pitch": -0.6,
+                    "yaw": -90,
                     "type": "scene",
-                    "text": "OxwichBay National Nature Reserve",
-                    "sceneId": "OxwichBay",
+                    "text": "Return to Craig Cerrig Gleisiad",
+                    "sceneId": "CraigCerrigGleisiad",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                   
                     // "targetYaw": -50,
                     // "targetPitch": 2
                 }
@@ -94,13 +98,12 @@ pannellum.viewer('panorama', {
             "panorama": "./img/OxwichBay.jpg",
             "hotSpots": [
                 {
-                    "pitch": -0.6,
-                    "yaw": 90,
+                    "pitch": -10,
+                    "yaw": 125,
                     "type": "scene",
-                    "text": "Return to Craig Cerrig Gleisiad",
-                    "sceneId": "CraigCerrigGleisiad",
-                    "targetYaw": -23,
-                    "targetPitch": 2
+                    "text": "Whitford National Nature Reserve",
+                    "sceneId": "whitfordNNR"
+                    
                 }
             ]
         }
