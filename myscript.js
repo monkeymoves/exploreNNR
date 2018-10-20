@@ -67,16 +67,16 @@ pannellum.viewer('panorama', {
         "whitfordNNR": {
             "title": "Whitford National Nature Reserve",
             "hfov": 120,
-            "yaw": 100,
+            "yaw": -100,
             "pitch": -20,
-            "horizonRoll": 20,
+            "horizonRoll": 10,
 
             "type": "equirectangular",
             "panorama": "./img/whitfordNNR.jpg", 
             "hotSpots": [
                 {
-                    "pitch": -22,
-                    "yaw": 130,
+                    "pitch": -10,
+                    "yaw": -40,
                     "type": "scene",
                     "text": "OxwichBay National Nature Reserve",
                     "sceneId": "OxwichBay",
