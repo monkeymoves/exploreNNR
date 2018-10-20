@@ -69,7 +69,7 @@ pannellum.viewer('panorama', {
             "hfov": 120,
             "yaw": -100,
             "pitch": -20,
-            "horizonRoll": 10,
+            "horizonRoll": 0,
 
             "type": "equirectangular",
             "panorama": "./img/whitfordNNR.jpg", 
